@@ -1,0 +1,6 @@
+   > transaction hash:    0xef22bce8f2e3330c51cabf79f3badc0ccfb42e3e838d6c8b17e9bf5872831efd
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x2a7D04FD03760aF04cBD52B330083584D5373eCD
+   > block number:        29
+   > block timestamp:     1685070373
+   > account:             0x4dE7759ad7C495E9d368cF6086BceEC5577AC0a9

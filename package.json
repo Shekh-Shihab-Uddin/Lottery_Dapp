@@ -1,0 +1,25 @@
+{
+  "name": "untitled-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.14",
+    "bootstrap": "^5.2.3",
+    "create-react-app": "^5.0.1",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
