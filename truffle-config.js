@@ -21,8 +21,8 @@
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 //
 // const fs = require('fs');
-const MNEMONIC = "task cook idea help frost cinnamon bring solar dynamic cargo animal ability";
-const INFURA_API_KEY = "https://sepolia.infura.io/v3/f9ebf245ab204443ae4c8c54f232a2ee";
+const MNEMONIC = "Your Mnemonic";
+const INFURA_API_KEY = `https://sepolia.infura.io/v3/${API_KEY}`;
 
 module.exports = {
   /**
